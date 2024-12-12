@@ -17,7 +17,7 @@
 
 
 
--Discover page 
+- Discover page 
 
 <img src="img/image_copy.png" width="600" height="600">
 
